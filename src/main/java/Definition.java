@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Definition {
   private String mDefinition;
   private int mId;
-  private static List<Definition> instances = newArrayList<Defintion>();
+  private static List<Definition> instances = new ArrayList<Definition>();
 
 
   public Definition(String _definition) {
@@ -13,7 +13,7 @@ public class Definition {
     mId = instances.size();
   }
 
-  public String getDefintion() {
+  public String getDefinition() {
     return mDefinition;
   }
 
