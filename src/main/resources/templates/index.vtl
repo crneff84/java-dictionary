@@ -1,0 +1,18 @@
+<h3>Your Custom Dictionary of Words</h3>
+
+#if($words.size() > 0)
+  <ul>
+    #foreach($word in $words)
+      <li><a href="/word/$word.getId()">$word.getWord()</a></li>
+    #end
+  </ul>
+#else
+  <p>No words yet!</p>
+#end
+
+<h3>Create a new word</h3>
+<form action="/new-word" method="post">
+  <label for="word-name">Enter a Word: </label>
+  <input type="text" id="word-name" name="word-name">
+  <button type="submit" class="btn btn-primary">Publish Your Entry</button>
+</form>
