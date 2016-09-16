@@ -1,25 +1,35 @@
-# _Template_
+# _Dictionary Program_
 
-#### By _Ewa Manek_
+#### _This application allows users to create a dictionary to keep track of various definitions. 09/15/2016_
 
-## Description
+#### By _Chance Neff_
 
-_A template java app with support for gradle, spark and junit testing_
+## Description and Specifications
+
+_This application allows users to add words to a dictionary. The user may also add definitions for those words._
+
+* __
+  * _Example Input: _
+  * _Example Output: _
 
 ## Setup/Installation Requirements
 
-* _Copy the repository from GitHub_
-* _Open in code editor of your choice_
-* _Make sure you have gradle installed!_
-* _gradle will download and install junit and spark_
+* _This program can best be used with the Google Chrome browser._
 
+## Known Bugs
 
-## GitHub link
+_There are no known bugs at this time._
 
-https://github.com/ewajm/javaSparkTemplate
+## Support and contact details
 
-## Licensing
+_If you encounter any bugs, please contact me at crneff84@gmail.com_
 
-* MIT
+## Technologies Used
 
-Copyright (c) 2016 **_Ewa Manek_**
+_This website was created using java, gradle, and Spark._
+
+### License
+
+*MIT*
+
+Copyright (c) 2016 **_Chance Neff_**
