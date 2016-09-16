@@ -1,6 +1,6 @@
 # _Dictionary Program_
 
-#### _This application allows users to create a dictionary to keep track of various definitions. 09/15/2016_
+#### _This application allows users to create a dictionary to keep track of various definitions tied to specific words. 09/15/2016_
 
 #### By _Chance Neff_
 
@@ -8,9 +8,13 @@
 
 _This application allows users to add words to a dictionary. The user may also add definitions for those words._
 
-* __
-  * _Example Input: _
-  * _Example Output: _
+* _Word is added to dictionary_
+  * _Example Input: Word_
+  * _Example Output: Word is stored in session_
+
+* _Definition is added for a word to dictionary_
+  * _Example Input: Definition_
+  * _Example Output: Definition for a specific word is stored in session_
 
 ## Setup/Installation Requirements
 
